@@ -1,0 +1,13 @@
+names:
+- kobieta
+- mezczyzna
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: objectdetection-vdafc
+  url: https://universe.roboflow.com/piotr-qzkyd/objectdetection-vdafc/dataset/5
+  version: 5
+  workspace: piotr-qzkyd
+test: ObjectDetection-5/test/images
+train: ObjectDetection-5/train/images
+val: ObjectDetection-5/valid/images
